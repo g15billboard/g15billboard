@@ -6,20 +6,19 @@
     <description>Recent content in Lorem on g15billboard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jan 2019 07:15:00 +0000</lastBuildDate>
     
 	<atom:link href="http://g15billboard.com/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>http://g15billboard.com/blog/2015/10/10/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Why The Time Is Now To Join The Mobile Revolution</title>
+      <link>http://g15billboard.com/blog/2019/01/09/mobile_revolution/</link>
+      <pubDate>Wed, 09 Jan 2019 07:15:00 +0000</pubDate>
       
-      <guid>http://g15billboard.com/blog/2015/10/10/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>http://g15billboard.com/blog/2019/01/09/mobile_revolution/</guid>
+      <description>You have probably heard the phrase “Timing is everything.” For the success of a business or a product, this is especially true.
+Launching the right product at the right time all but ensures success &amp;ndash; heck, even launching the wrong product at the right time will give the product a better-than-even chance for success. But the right product at the wrong time usually ends in failure.</description>
     </item>
     
   </channel>

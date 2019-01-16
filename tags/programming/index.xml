@@ -6,19 +6,18 @@
     <description>Recent content in Programming on g15billboard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Dec 2018 21:49:20 +0000</lastBuildDate>
     
 	<atom:link href="http://g15billboard.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Linked post</title>
-      <link>http://g15billboard.com/blog/2015/10/02/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Advice for a 24-hour pocket mobile plan</title>
+      <link>http://g15billboard.com/blog/2018/12/05/advice/</link>
+      <pubDate>Wed, 05 Dec 2018 21:49:20 +0000</pubDate>
       
-      <guid>http://g15billboard.com/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <guid>http://g15billboard.com/blog/2018/12/05/advice/</guid>
+      <description>Imagine you had only 24 hours to put together a passable mobile marketing plan. What mobile tactics would you prioritise over a day because they are such non-negotiables? There is, in fact, a lot one could do in a normal working day that stretched into the evening because of less than optimal mobile planning.</description>
     </item>
     
   </channel>
