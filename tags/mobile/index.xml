@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on g15billboard</title>
-    <link>http://g15billboard.com/blog/</link>
-    <description>Recent content in Blogs on g15billboard</description>
+    <title>Mobile on g15billboard</title>
+    <link>http://g15billboard.com/tags/mobile/</link>
+    <description>Recent content in Mobile on g15billboard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Jan 2019 07:15:00 +0000</lastBuildDate>
     
-	<atom:link href="http://g15billboard.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://g15billboard.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,30 +22,12 @@ Launching the right product at the right time all but ensures success &amp;ndash
     </item>
     
     <item>
-      <title>BizTrends2019: Media trends for 2019</title>
-      <link>http://g15billboard.com/blog/2019/01/07/biztrend/</link>
-      <pubDate>Mon, 07 Jan 2019 13:39:46 +0000</pubDate>
-      
-      <guid>http://g15billboard.com/blog/2019/01/07/biztrend/</guid>
-      <description>2019 is poised to be the year where the integration of artificial intelligence permeates across all facets of marketing. This includes delivering better customer experiences across brands, driving better media targeting and helping define real-time media ROI.</description>
-    </item>
-    
-    <item>
       <title>Advice for a 24-hour pocket mobile plan</title>
       <link>http://g15billboard.com/blog/2018/12/05/advice/</link>
       <pubDate>Wed, 05 Dec 2018 21:49:20 +0000</pubDate>
       
       <guid>http://g15billboard.com/blog/2018/12/05/advice/</guid>
       <description>Imagine you had only 24 hours to put together a passable mobile marketing plan. What mobile tactics would you prioritise over a day because they are such non-negotiables? There is, in fact, a lot one could do in a normal working day that stretched into the evening because of less than optimal mobile planning.</description>
-    </item>
-    
-    <item>
-      <title>5G will become the mainstream ecosystem by 2022</title>
-      <link>http://g15billboard.com/blog/2018/11/27/5g/</link>
-      <pubDate>Tue, 27 Nov 2018 13:47:08 +0000</pubDate>
-      
-      <guid>http://g15billboard.com/blog/2018/11/27/5g/</guid>
-      <description>A research report released by Ericsson has provided a perspective on how 5G can be realised in Africa. The Making 5G a reality for Africa report, which was conducted in collaboration with the Council for Scientific and Industrial Research (CSIR), reveals that 5G will become the mainstream ecosystem by 2022, and we can expect to see 5G start being deployed by global leading operators during 2019.</description>
     </item>
     
   </channel>

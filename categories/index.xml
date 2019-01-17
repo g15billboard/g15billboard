@@ -6,43 +6,35 @@
     <description>Recent content in Categories on g15billboard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jan 2019 07:15:00 +0000</lastBuildDate>
     
 	<atom:link href="http://g15billboard.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Lorem</title>
-      <link>http://g15billboard.com/categories/lorem/</link>
+      <title>Advertising</title>
+      <link>http://g15billboard.com/categories/advertising/</link>
       <pubDate>Wed, 09 Jan 2019 07:15:00 +0000</pubDate>
       
-      <guid>http://g15billboard.com/categories/lorem/</guid>
+      <guid>http://g15billboard.com/categories/advertising/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>http://g15billboard.com/categories/programming/</link>
-      <pubDate>Wed, 05 Dec 2018 21:49:20 +0000</pubDate>
+      <title>Mobile</title>
+      <link>http://g15billboard.com/categories/mobile/</link>
+      <pubDate>Wed, 09 Jan 2019 07:15:00 +0000</pubDate>
       
-      <guid>http://g15billboard.com/categories/programming/</guid>
+      <guid>http://g15billboard.com/categories/mobile/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pseudo</title>
-      <link>http://g15billboard.com/categories/pseudo/</link>
-      <pubDate>Mon, 07 Jan 2019 13:39:46 +0000</pubDate>
+      <title>Network</title>
+      <link>http://g15billboard.com/categories/network/</link>
+      <pubDate>Tue, 27 Nov 2018 13:47:08 +0000</pubDate>
       
-      <guid>http://g15billboard.com/categories/pseudo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Starting</title>
-      <link>http://g15billboard.com/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>http://g15billboard.com/categories/starting/</guid>
+      <guid>http://g15billboard.com/categories/network/</guid>
       <description></description>
     </item>
     

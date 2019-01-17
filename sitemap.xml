@@ -23,8 +23,21 @@
   </url>
   
   <url>
-    <loc>http://g15billboard.com/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>http://g15billboard.com/tags/5g/</loc>
+    <lastmod>2018-11-27T13:47:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://g15billboard.com/tags/advertising/</loc>
+    <lastmod>2019-01-09T07:15:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://g15billboard.com/categories/advertising/</loc>
+    <lastmod>2019-01-09T07:15:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -35,6 +48,7 @@
   
   <url>
     <loc>http://g15billboard.com/categories/</loc>
+    <lastmod>2019-01-09T07:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,68 +61,26 @@
   </url>
   
   <url>
-    <loc>http://g15billboard.com/tags/go/</loc>
+    <loc>http://g15billboard.com/tags/mobile/</loc>
+    <lastmod>2019-01-09T07:15:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://g15billboard.com/categories/mobile/</loc>
+    <lastmod>2019-01-09T07:15:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://g15billboard.com/categories/network/</loc>
     <lastmod>2018-11-27T13:47:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/tags/golang/</loc>
-    <lastmod>2018-12-05T21:49:20+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/tags/hugo/</loc>
-    <lastmod>2019-01-07T13:39:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/tags/ipsum/</loc>
-    <lastmod>2019-01-09T07:15:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/categories/lorem/</loc>
-    <lastmod>2019-01-09T07:15:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/tags/programming/</loc>
-    <lastmod>2018-12-05T21:49:20+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/categories/programming/</loc>
-    <lastmod>2018-12-05T21:49:20+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/categories/pseudo/</loc>
-    <lastmod>2019-01-07T13:39:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://g15billboard.com/tags/</loc>
     <lastmod>2018-11-27T13:47:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://g15billboard.com/tags/theme/</loc>
-    <lastmod>2018-12-05T21:49:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
