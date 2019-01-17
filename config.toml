@@ -94,7 +94,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "business@g15billboard.com"
 
-    about_us = "<p>innovated G15 Play for H5 Games on mobile.</p><p>Premium traffic of Office apps and high valued Healthy & Fitness Inventory.</p><p>Multi-dimension anti-fraud system.</p>"
+    about_us = "<p>We are a young and energetic mobile internet company for niche market.</p><p>Our objective is to be  focus, lean and accurate.</p>"
     copyright = "Copyright (c) 2019 - 2020, G15Billboard; all rights reserved."
 
     # Format dates with Go's time formatting
