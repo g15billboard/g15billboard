@@ -1,8 +1,8 @@
 +++
 title = "Why The Time Is Now To Join The Mobile Revolution"
 date = "2019-01-09T07:15:00+00:00"
-tags = ["ipsum"]
-categories = ["lorem"]
+tags = ["mobile", "advertising"]
+categories = ["mobile", "advertising"]
 banner = "img/news/news-01.jpg"
 external_link = "https://www.forbes.com/sites/forbestechcouncil/2019/01/09/why-the-time-is-now-to-join-the-mobile-revolution"
 +++

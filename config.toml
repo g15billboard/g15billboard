@@ -5,7 +5,7 @@ languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+# disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -104,7 +104,7 @@ paginate = 10
     logo_small = "img/logo-small.png"
     address = """<p><strong>Game developer:</strong>
         <br>game@g15-billboard.com
-        <br>Advertising business:
+        <br><strong>Advertising business:</strong>
         <br>business@g15billboard.com
       </p>
       """
