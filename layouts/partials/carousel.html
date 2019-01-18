@@ -3,7 +3,7 @@
 {{ if gt (len .Site.Data.carousel) 0 }}
 <section style="margin-bottom: 0;">
     <div class="home-carousel">
-        <div class="dark-mask"></div>
+        <div class="dark-mask" style="opacity:0.7"></div>
         <div class="container">
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
