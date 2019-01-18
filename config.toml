@@ -92,7 +92,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "dirac.wen@moca-tech.net"
+    email = "business@g15billboard.com"
 
     about_us = "<p>We are a young and energetic mobile internet company for niche market.</p><p>Our objective is to be  focus, lean and accurate.</p>"
     copyright = "Copyright (c) 2019 - 2020, G15Billboard; all rights reserved."
