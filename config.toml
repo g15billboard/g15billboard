@@ -38,7 +38,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Contact"
-    url  = "/contact"
+    url  = "mailto:business@g15billboard.com"
     weight = 5
 
 # Top bar social links menu
