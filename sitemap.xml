@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://g15billboard.com/privacy/</loc>
+    <lastmod>2019-06-09T17:55:33+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://g15billboard.com/blog/2019/01/09/mobile_revolution/</loc>
     <lastmod>2019-01-09T07:15:00+00:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   </url>
   
   <url>
-    <loc>http://g15billboard.com/categories/advertising/</loc>
+    <loc>http://g15billboard.com/tags/advertising/</loc>
     <lastmod>2019-01-09T07:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://g15billboard.com/tags/advertising/</loc>
+    <loc>http://g15billboard.com/categories/advertising/</loc>
     <lastmod>2019-01-09T07:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -61,13 +66,13 @@
   </url>
   
   <url>
-    <loc>http://g15billboard.com/categories/mobile/</loc>
+    <loc>http://g15billboard.com/tags/mobile/</loc>
     <lastmod>2019-01-09T07:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://g15billboard.com/tags/mobile/</loc>
+    <loc>http://g15billboard.com/categories/mobile/</loc>
     <lastmod>2019-01-09T07:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -86,7 +91,7 @@
   
   <url>
     <loc>http://g15billboard.com/</loc>
-    <lastmod>2019-01-09T07:15:00+00:00</lastmod>
+    <lastmod>2019-06-09T17:55:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
